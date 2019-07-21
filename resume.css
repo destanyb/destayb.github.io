@@ -1,0 +1,19 @@
+.header {
+    text-align:center;
+        background-color:lightgrey;
+      padding-bottom: 10px;
+}
+ 
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family:Arial;
+
+}
+h1 {
+    margin: 0px;
+}
+
+body {
+    font-family: Arial;
+}

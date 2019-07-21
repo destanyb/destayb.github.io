@@ -1,0 +1,72 @@
+body {
+    background: gray;
+    font-family: arial;
+    margin: 0px 
+}
+
+h1 {
+    color: white;
+    margin: 0px;
+    padding: 20px;
+	background: black;
+	text-align: center;
+}
+
+#NewsFeed{
+	color: white;
+	text-decoration: underline;
+	
+}
+
+.blackbox {
+    background: black;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.whitebox {
+    background: white;
+    margin: 40px;
+    padding: 20px 0px 20px 25px
+    
+}
+
+a {
+    color: white;
+	float: right;
+}
+
+#roundButton {
+ border-radius: 5px;
+}
+
+#caption {
+    width: 97%
+}
+
+#link_input {
+    width: 97%
+}
+
+#WhiteBox {
+	background: white;
+    margin: 40px;
+    padding: 0px 0px 20px 25px
+    
+}
+
+#profile.link {
+color: white;
+float: right;
+
+}
+
+#container {
+    position: relative;
+    height: 100%;
+    margin: 40px;
+}
+box {
+    margin-right: 0px;
+
+}
