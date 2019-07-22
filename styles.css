@@ -1,38 +1,72 @@
-h1 {
-	text-align: center;
-	font-family:'Dawning of a New Day', cursive;
-	font-size: 65px;
-		
-}
-
 body {
- background-image: url("https://i.pinimg.com/originals/3e/d6/73/3ed673adb2ed5e11dfe09c228e5d6dc8.jpg");
- font-family: 'Shadows Into Light', cursive;
-	padding-left: 10%;
-	padding-right:10%;
+    background: gray;
+    font-family: arial;
+    margin: 0px 
+}
+
+h1 {
+    color: white;
+    margin: 0px;
+    padding: 20px;
+	background: black;
 	text-align: center;
 }
 
-.quote {
-	padding-left: 10%;
-	padding-right: 10%;
-	text-align: center;
+#NewsFeed{
+	color: white;
+	text-decoration: underline;
 	
 }
 
-a {
-font-decoration: underline;
-padding-left: 10%;
-padding-right: 10%;
-font-size: 35px;
+.blackbox {
+    background: black;
+    text-align: center;
+    margin-bottom: 0px;
 }
 
-#portfolio {
-text-align: right;
-margin-left: 95%}
+.whitebox {
+    background: white;
+    margin: 40px;
+    padding: 20px 0px 20px 25px
+    
+}
 
-title{
-font-family: 'Shadows Into Light', cursive;
-text-align: center;
-font-size: 65px;
+a {
+    color: white;
+	float: right;
+}
+
+#roundButton {
+ border-radius: 5px;
+}
+
+#caption {
+    width: 97%
+}
+
+#link_input {
+    width: 97%
+}
+
+#WhiteBox {
+	background: white;
+    margin: 40px;
+    padding: 0px 0px 20px 25px
+    
+}
+
+#profile.link {
+color: white;
+float: right;
+
+}
+
+#container {
+    position: relative;
+    height: 100%;
+    margin: 40px;
+}
+box {
+    margin-right: 0px;
+
 }
